@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4df7e34255b8f241b95b897905e30d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  touchPosition: {x: 100, y: 50}
+  minDistance: {x: 100, y: 50}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
